@@ -1,0 +1,19 @@
+# Relational
+PyMySQL>=1.1,<2
+cryptography>=42
+
+# Document
+pymongo>=4.7,<5
+
+# Key-value
+redis>=5.0,<6
+
+# Graph
+neo4j>=5.20,<6
+
+# Data generation
+Faker>=25
+numpy>=1.26
+
+# Config
+python-dotenv>=1.0
