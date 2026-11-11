@@ -21,7 +21,7 @@ Polyglot e-commerce backend: MySQL, MongoDB, Redis, and Neo4j sharing the same `
 - `queries/` — the Part 2 queries, one folder for each
 - `perf/` — timing and execution-plan results
 - `docs/` — design docs, revision log, contributions, citations
-- `report/` — final PDF report
+- `report/` — final report
 
 ## Setup
 
